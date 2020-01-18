@@ -1,0 +1,15 @@
+
+music_station = "flairwars_Radio"
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+# PEACE SONGS ##################
+
+# WAR SONGS ####################

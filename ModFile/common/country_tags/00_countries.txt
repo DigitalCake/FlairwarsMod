@@ -1,1 +1,7 @@
-LUX = "countries/Luxemburg.txt"
+BLU = "countries/Blue.txt"
+GRN = "countries/Green.txt"
+ORA = "countries/Orange.txt"
+PUR = "countries/Purple.txt"
+RED = "countries/Red.txt"
+YEL = "countries/Yellow.txt"
+OIL = "countries/Oil.txt"
